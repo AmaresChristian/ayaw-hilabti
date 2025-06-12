@@ -1,0 +1,12 @@
+/* You can add shared global styles, for example: */
+
+* {
+  box-sizing: border-box;
+}
+
+body, input, button {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+}
+
+/* Add more styles as needed */
